@@ -1,6 +1,16 @@
 # Data-Driven Insights for RSVP Movies Using SQL
 This project focuses on helping RSVP Movies, a renowned Indian film production company, prepare for its first global movie release by leveraging data analytics. As a data analyst and SQL expert, I have analyzed movie data from the past three years to uncover insights that will guide the company’s decision-making for their upcoming international project in 2022.
 
+## Project Structure
+
+- **Database Setup:** Creation of the database and the required tables.
+- **Data Import:** Inserting sample data into the tables.
+- **Data Cleaning:** Handling null values and ensuring data integrity.
+- **Business Problems:** Solving 29 specific business problems using SQL queries.
+
+
+![image](https://github.com/user-attachments/assets/491ccca7-e4e8-4eea-8dd2-22134924bb37)
+
 ## Project Objective
 Use SQL to analyze historical movie data and generate actionable recommendations for:
 1. Target audience segmentation
