@@ -24,7 +24,7 @@ Use SQL to analyze historical movie data and generate actionable recommendations
 3. Recommendations backed by solid SQL-based insights
 
 
-##  Conclusiom:
+##  Conclusion:
 RSVP Movies' global expansion strategy should focus on drama and romance genres,
 which have shown high audience love. Collaborating with top directors like Joe and
 Anthony Russo for drama or James Mangold for sci-fi could increase the project's
